@@ -812,6 +812,3 @@ else:
 
 
   #fim do jogo <----------->
-
-+ "+ "+ "print("\033[91mabca\033[0m")
-print("abca")
